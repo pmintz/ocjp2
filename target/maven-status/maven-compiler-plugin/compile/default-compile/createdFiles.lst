@@ -1,4 +1,6 @@
 Chapter1\Declarations\AccessControl\AbstractClass.class
+Apple.class
+food\Fruit.class
 Chapter1\Declarations\AccessControl\NonAbstractClass.class
 Chapter1\Declarations\AccessControl\ExtendingAbstractClass.class
 Chapter1\Declarations\AccessControl\InstantiateAbstractObject.class
