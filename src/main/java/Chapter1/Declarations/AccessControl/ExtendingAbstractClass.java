@@ -3,6 +3,7 @@ package Chapter1.Declarations.AccessControl;
 public class ExtendingAbstractClass extends AbstractClass {
 	
 	String s = "Extending Abstract Class";
+	static String p = "Extending Abstract Class own variable";
 	
 	
 	
